@@ -1,0 +1,13 @@
+name = "i18n"
+version = "0.9.0"
+
+desc = "A very complete i18n lib for Lua"
+author = "Enrique García"
+license = "MIT/X11"
+url = "https://github.com/kikito/i18n.lua"
+maintainer = "Everton A Ribeiro"
+repository = "https://github.com/kikito/i18n.lua"
+
+depends = {
+  "lua >= 5.1",
+}
